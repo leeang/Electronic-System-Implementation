@@ -12,7 +12,3 @@ Arduino code for each workshop and final project - Temperature Controller.
 
 ###"Archive" folder
 Useful code snippets.
-
-
-###My Blog
-[angli.me](http://angli.me/)
